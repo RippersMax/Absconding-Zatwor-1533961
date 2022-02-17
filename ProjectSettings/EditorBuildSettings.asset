@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LEVELI/IntroScene.unity
+    guid: c761ee5c3775c3a49a38ec2ab0a88e63
+  - enabled: 1
+    path: Assets/LEVELI/IntroScene1.unity
+    guid: 0a2519f25152e49439c0b6bc6b114eda
+  - enabled: 1
+    path: Assets/LEVELI/Menu.unity
+    guid: 5db5eba6eea23504cb910a83798d9085
+  - enabled: 1
+    path: Assets/LEVELI/Settings.unity
+    guid: 8e5d284ae24fb79449c6ea3201048800
+  - enabled: 1
+    path: Assets/LEVELI/Achievements.unity
+    guid: 0f6ecf5f9ed91ca4ea72a44b3a1b9479
+  - enabled: 1
+    path: Assets/LEVELI/LoadMenu.unity
+    guid: 44db757c0b1d1694bb6fef2c793d0bf9
+  - enabled: 1
+    path: Assets/LEVELI/Level1.unity
+    guid: a9798901a183ff14a8ccfacf8e692009
+  - enabled: 1
+    path: Assets/LEVELI/Level2.unity
+    guid: a43238c3ed2ab3f41ac5e23c6ceb09ee
+  - enabled: 1
+    path: Assets/LEVELI/Level3.unity
+    guid: afab96a4f438c22449a27c3e0252cb1f
+  - enabled: 1
+    path: Assets/LEVELI/Level4.unity
+    guid: 01715c91f7c8e7b4295c20c3d55cd496
+  - enabled: 1
+    path: Assets/LEVELI/Level5.unity
+    guid: 6485177d682028744a84fd13004b586e
+  - enabled: 1
+    path: Assets/LEVELI/Level6.unity
+    guid: 865e85ac18d14e64f85949838c1494d8
+  - enabled: 1
+    path: Assets/LEVELI/Level7.unity
+    guid: 739ca940a8dcd2a4491bdc5ba805ff02
+  - enabled: 1
+    path: Assets/LEVELI/Level8.unity
+    guid: 2f8d92567c5d57846b0ce1380aa9096f
+  - enabled: 1
+    path: Assets/LEVELI/Level9.unity
+    guid: cdaaa13558ae20d4da9b0da30d9551cf
+  - enabled: 1
+    path: Assets/LEVELI/Level10.unity
+    guid: c9ce0ce2be63b494c9d3b3e07593f60e
+  - enabled: 1
+    path: Assets/LEVELI/Level11.unity
+    guid: 7fe026f81ac3b5d4384c0644326e74db
+  - enabled: 1
+    path: Assets/LEVELI/Level12.unity
+    guid: 46d38b0a5ef15324e9bd96ae0f6983a8
+  - enabled: 1
+    path: Assets/LEVELI/Level13.unity
+    guid: 75378fad2d2a98d4e9c88cecccf373b9
+  - enabled: 1
+    path: Assets/LEVELI/Level14.unity
+    guid: d5ecd42705a45b8479005f0b79243cb0
+  - enabled: 1
+    path: Assets/LEVELI/Level15.unity
+    guid: c010dc39fa163494d93d5ba9e37350f7
+  - enabled: 1
+    path: Assets/LEVELI/Level16.unity
+    guid: 7e8b2ecd424282243809c5813ba9c1e4
+  - enabled: 1
+    path: Assets/LEVELI/Level17.unity
+    guid: 7e40650ad3f074f47aae89bb418fcbc2
+  - enabled: 1
+    path: Assets/LEVELI/Level18.unity
+    guid: 5eeedceaf55faa34d9f818a0142198ac
+  - enabled: 1
+    path: Assets/LEVELI/Level19.unity
+    guid: 3495696f832eca34b809b04a9651bb80
+  - enabled: 1
+    path: Assets/LEVELI/Level20.unity
+    guid: 33ca91ead6ffb4a4f8f2475a73be7e24
+  - enabled: 1
+    path: Assets/LEVELI/Level21.unity
+    guid: 65cb7bc45cf32d24d9360ca0020e8441
+  - enabled: 1
+    path: Assets/LEVELI/Level22.unity
+    guid: 9d9d056a0b44c6944bdc4c9cae3618d0
+  - enabled: 1
+    path: Assets/LEVELI/Level23.unity
+    guid: 71608d73da0feb342be7c8b164c881fd
+  - enabled: 1
+    path: Assets/LEVELI/Level24.unity
+    guid: 14f0d82145c8a7d4d871d2120bed4e63
+  - enabled: 1
+    path: Assets/LEVELI/Level25.unity
+    guid: 3c72c6dfa2d659f44a20924f827a5dea
+  - enabled: 1
+    path: Assets/LEVELI/Level26.unity
+    guid: 971693c7ff4ab4742a07dba291ba3d1f
+  - enabled: 1
+    path: Assets/LEVELI/Level27.unity
+    guid: 39f1a63d9b0c8d246943ea5e525a7a33
+  - enabled: 1
+    path: Assets/LEVELI/Level28.unity
+    guid: be78f9f1828c74044b288805a1bf9024
+  - enabled: 1
+    path: Assets/LEVELI/Level29.unity
+    guid: 007ef85638d7c284595b5feacf82aab8
+  - enabled: 1
+    path: Assets/LEVELI/Level30.unity
+    guid: 0511ce7302707274187b735a7bf2ad76
+  - enabled: 1
+    path: Assets/LEVELI/Level31.unity
+    guid: 5ff54e59b7c49cf46adbda9a583a5714
+  - enabled: 1
+    path: Assets/LEVELI/Level32.unity
+    guid: df94b4b245b2c6847a7db1718a4b3d5e
+  - enabled: 1
+    path: Assets/LEVELI/Level33.unity
+    guid: 4229a3364a79fa643bc60966eceda668
+  - enabled: 1
+    path: Assets/LEVELI/Level34.unity
+    guid: c8cb94a669508d84b86c355dc1cf6e91
+  - enabled: 1
+    path: Assets/LEVELI/Level35.unity
+    guid: 0ee24d2451c81524c96aee56c8d3aa06
+  - enabled: 1
+    path: Assets/LEVELI/Level36.unity
+    guid: e3c51e23cb4c5c24aa08769dcc93f1d5
+  - enabled: 1
+    path: Assets/LEVELI/Level37.unity
+    guid: e1db870282228214cbe2f3651dca139f
+  - enabled: 1
+    path: Assets/LEVELI/Level38.unity
+    guid: 5a4213533f305884d92b48b7d4e92aee
+  - enabled: 1
+    path: Assets/LEVELI/Level39.unity
+    guid: feee857c179ba9a4fa357d29d6a5c903
+  - enabled: 1
+    path: Assets/LEVELI/Level40.unity
+    guid: 7a7957f365a3d5a4c880d0dde4638ac5
+  - enabled: 1
+    path: Assets/LEVELI/Level41.unity
+    guid: a5b87a6c0560a574889d9b32259fab00
+  - enabled: 1
+    path: Assets/LEVELI/Level42.unity
+    guid: 09d0920b8d32f9a4fbaf073995811055
+  - enabled: 1
+    path: Assets/LEVELI/Level43.unity
+    guid: 90ceff9428d98bd439675bc14aadfc0e
+  - enabled: 1
+    path: Assets/LEVELI/Level44.unity
+    guid: 47fa78416c585bd46b7f354973ec86dc
+  - enabled: 1
+    path: Assets/LEVELI/Level45.unity
+    guid: 82c8c45d143e29a4ca9a6fd88c4f9b56
+  - enabled: 1
+    path: Assets/LEVELI/Level46.unity
+    guid: 5bc7a4561dae28c4d8bb0f8b0c88eeb7
+  - enabled: 1
+    path: Assets/LEVELI/Level47.unity
+    guid: ff4b36c15f345b041803587f209c850b
+  - enabled: 1
+    path: Assets/LEVELI/Level48.unity
+    guid: 57411b243b7257b4eafd25c60fe67197
+  - enabled: 1
+    path: Assets/LEVELI/Level49.unity
+    guid: e21d6d058609ec241b75b56e56061cc9
+  - enabled: 1
+    path: Assets/LEVELI/Level50.unity
+    guid: d41112fa7b006724d88e8e0b5e0b42eb
+  - enabled: 1
+    path: Assets/LEVELI/Ending.unity
+    guid: 0278ab35af564fb4e85cedc8815b8f32
+  - enabled: 1
+    path: Assets/LEVELI/Credits.unity
+    guid: 954dcfa0ed7214247a7471c48332f88c
